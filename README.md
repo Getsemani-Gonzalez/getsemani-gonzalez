@@ -1,17 +1,5 @@
- {
-  margen : 0 px ;
-  relleno : 0 px ;
-}
-
-#octocat {
-  pantalla : bloque ;
-  ancho : 384 px ;
-  margen : 50 px  automático ;
-}
-
-p {
-  pantalla : bloque ;
-  ancho : 400 px ;
-  margen : 50 px  automático ;
-  fuente : 30 px Mónaco, " Courier New " , " DejaVu Sans Mono " , " Bitstream Vera Sans Mono " , monoespacio ;
-}
+<head>
+<style>
+<h2><p><strong><LINK REL="Style Sheet"HREF="style.css"TYPE="https://getsemani-gonzalez.github.io/Formulario-de-datos/"/css" MEDIA="screen"/>Formulario de datos</a></strong>
+</style>
+</head>
