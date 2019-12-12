@@ -1,5 +1,5 @@
 <head>
-<style>
-<h2><p><strong><LINK REL="Style Sheet"HREF="style.css"TYPE="https://getsemani-gonzalez.github.io/Formulario-de-datos/"/css" MEDIA="screen"/>Formulario de datos</a></strong>
+   <style>
+<font color="#D2B48C" size="4" face="Comic Sans MS, Arial, MS Sans Serif"> Bienvenidos a mi web personal</font>
 </style>
 </head>
